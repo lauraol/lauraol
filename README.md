@@ -11,6 +11,6 @@ Eu sou a Laura, tenho 20 anos e sou de São Paulo, Brasil. Apaixonada por tecnol
 - 🚀 Estudando para me tornar uma dev fullstack
 - 💁 Interessada em ajudar mulheres a ingressarem na área de tecnologia e desenvolvimento
 - 💬 Pode me chamar para conversar sobre tecnologia, desenvolvimento front-end, começo de carreira, desenhos e melhores séries para fazer maratona 
-- 📫 Me acompanhe nas redes sociais:  <a href="www.linkedin.com/in/lauraolpedro" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+- 📫 Me acompanhe nas redes sociais:  <a href="https://www.linkedin.com/in/laura-oliveira-pedro-03660019a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/laurou__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
   
