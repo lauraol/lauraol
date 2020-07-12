@@ -4,7 +4,7 @@
 
 <h2>Fala galerinha do meu canal, opa, errei. Talvez eu esteja viciada em youtube...</h2>
 
-Eu sou a Laura, tenho 20 anos e sou de São Paulo, Brasil. Apaixonada por tecnologia, desenvolvimento front-end, inovação e possibilidades. 
+Eu sou a Laura, tenho 20 anos e moro em São Paulo, Brasil. Apaixonada por tecnologia, desenvolvimento front-end, inovação e possibilidades. 
 
 - 🏢 Trabalhando como engenheira de software júnior
 - 💻 Aprendendo e me aprofundando em Angular, JS, TS e CSS
