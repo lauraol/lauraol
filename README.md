@@ -6,7 +6,7 @@
 
 Eu sou a Laura, tenho 21 anos e moro em São Paulo, Brasil. Apaixonada por tecnologia, desenvolvimento front-end, inovação e possibilidades. 
 
-- 🏢 Trabalhando como engenheira de software júnior
+- 🏢 Trabalhando como engenheira de software plena
 - 💻 Aprendendo e me aprofundando em Angular, JS, TS e CSS
 - 🚀 Estudando para me tornar uma dev fullstack
 - 💁 Interessada em ajudar mulheres a ingressarem na área de tecnologia e desenvolvimento
