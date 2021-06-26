@@ -1,7 +1,7 @@
-<h1 align="center">
+<p align="center">
   <img src="https://media.giphy.com/media/Ken6Yg5n7bYStW4JYB/giphy.gif">
-</h1>
-<h2 align="center">Hello, World 🚀</h2>
+</p>
+<h1 align="center">Hello, World 🚀</h1>
 
 Eu sou a Laura, tenho 21 anos, moro em São Paulo, Brasil, sou formada em Análise e Desenvolvimento de Sistemas e estudante de Ciência da Computação. Apaixonada por tecnologia, desenvolvimento front-end, inovação e possibilidades. 
 
