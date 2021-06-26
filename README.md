@@ -7,7 +7,7 @@ Eu sou a Laura, tenho 21 anos, moro em São Paulo, Brasil, sou formada em Análi
 
 - 🏢 Trabalhando como engenheira de software
 - 🚀 Estudando para me tornar uma dev fullstack
-- ✨ Criadora de conteúdo no intagram @studytechgram
+- ✨ Criadora de conteúdo no instagram @studytechgram
 - 💁 Interessada em ajudar mulheres a ingressarem na área de tecnologia e desenvolvimento
 
 Pode me chamar para conversar sobre tecnologia, desenvolvimento front-end, carreira, desenhos e melhores séries para fazer maratona.
