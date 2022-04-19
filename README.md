@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hello, World 🚀</h1>
 
-Eu sou a Laura, tenho 21 anos, moro em São Paulo, Brasil, sou formada em Análise e Desenvolvimento de Sistemas e estudante de Ciência da Computação. Apaixonada por tecnologia, desenvolvimento front-end, inovação e possibilidades. 
+Eu sou a Laura, tenho 22 anos, moro em São Paulo, Brasil, sou formada em Análise e Desenvolvimento de Sistemas e estudante de Ciência da Computação. Apaixonada por tecnologia, desenvolvimento front-end, inovação e possibilidades. 
 
 - 🏢 Trabalhando como engenheira de software
 - 🚀 Estudando para me tornar uma dev fullstack
