@@ -3,13 +3,13 @@
 </p>
 <h1 align="center">Hello, World 🚀</h1>
 
-Eu sou a Laura, tenho 22 anos, moro em São Paulo, Brasil, sou formada em Análise e Desenvolvimento de Sistemas e estudante de Ciência da Computação. Apaixonada por tecnologia, desenvolvimento front-end, inovação e possibilidades. 
+Eu sou a Laura, tenho 26 anos, moro em São Paulo, Brasil e sou formada em Análise e Desenvolvimento de Sistemas. Apaixonada por tecnologia, desenvolvimento front-end, inovação e possibilidades. 
 
 - 🏢 Trabalhando como engenheira de software plena no Itaú Unibanco
-- 🚀 Estudando para me tornar uma desenvolvedora fullstack
-- 💁 Interessada em ajudar mulheres a ingressarem na área de tecnologia e desenvolvimento
+- 🚀 Estudando para me tornar uma desenvolvedora fullstack com conhecimentos de IA e nuvem
+- 💁 Interessada em ajudar mulheres a ingressarem na área de tecnologia, desenvolvimento e IA
 
-Pode me chamar para conversar sobre tecnologia, desenvolvimento front-end, carreira, desenhos e melhores séries para fazer maratona.
+Pode me chamar para conversar sobre tecnologia, desenvolvimento front-end, ia, nuvem, carreira e desenhos/animes/filmes/séries para fazer maratona.
 
 <a href="https://www.linkedin.com/in/lauraolpedro/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="lauraoliveirape@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a><a href="https://open.spotify.com/playlist/6zzCh7tquTIudKc5DGgnj4?si=f91d066dab594c8e"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
 
